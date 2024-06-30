@@ -7,8 +7,8 @@ import {
 } from '@vis.gl/react-google-maps';
 import { WeatherInfo } from './WeatherInfo';
 
-const API_KEY = 'AIzaSyDRIArSlEbI-uCMZzIaC65hZrQXzaUjWMs';
-const WEATHER_KEY = "763af14d51c4cd2e494c7c7b1705c381";
+const API_KEY = 'API_Key';
+const WEATHER_KEY = "Weather_key";
 
 
 const App = () => {
